@@ -6,7 +6,7 @@ description = "Cross Platform Library for providing To Do List data"
 
 [lib]
 name = "toodle"
-crate-type = ["staticlib", "cdylib"]
+# crate-type = ["staticlib", "cdylib"]
 
 [dependencies.ffi-utils]
 path = "ffi-utils"
